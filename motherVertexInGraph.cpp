@@ -1,4 +1,3 @@
-  
 /*
 _._._._._harshvcode_._._._._
 # Find mother vertex of a graph.
