@@ -1,6 +1,6 @@
 /*
 	Author	:	Harshvardhan Singh (harshvcode)
-	Problem	:	Alchemy
+	Problem	:	B. Alchemy [ Qualification Round ]
 	Link	:	https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/B
 */
 #include<bits/stdc++.h>
