@@ -1,6 +1,6 @@
 /*
   Author  : harshvcode
-  Link  : https://codeforces.com/contest/1391/problem/B
+  Link  : https://codeforces.com/contest/1391/problem/A
 */
 #include <bits/stdc++.h>
 using namespace std;
