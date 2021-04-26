@@ -1,4 +1,4 @@
-//Problem: https://codeforces.com/problemset/problem/1506/Chttps://codeforces.com/problemset/problem/1506/C
+//Problem: https://codeforces.com/problemset/problem/1506/C
 //Solution: https://codeforces.com/problemset/submission/1506/114277484
 #pragma GCC optimize("Ofast")
 #pragma GCC target("avx,avx2,fma")
